@@ -1,4 +1,4 @@
-# 📘 Hands-On Machine Learning (Bab 1–19) - Ringkasan
+# 📘 Hands-On Machine Learning (Bab 1–19) 
 Dokumen ini merangkum isi dari Bab 1 hingga Bab 19 dari buku Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition). Buku ini membahas dasar-dasar machine learning hingga implementasi deep learning dan deployment model skala besar.
 
 📚 Daftar Ringkasan Bab
